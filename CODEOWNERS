@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @dgorsett-fastenal
+/src/backend/database.py      @dgorsett-fastenal
+/src/backend/routers/auth.py  @dgorsett-fastenal
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @dgorsett-fastenal
